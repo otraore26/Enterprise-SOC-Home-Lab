@@ -87,7 +87,7 @@ Visit the Splunk download page.
 
 Select **Splunk Enterprise**.
 
-<img src="images/1-2 How to download free Splunk Enterprise.png" width="1000">
+<img src="https://github.com/otraore26/Enterprise-SOC-Home-Lab/blob/d9559adc814d87b60a146a79381496696554dea2/Splunk%20Screenshoots/1-2%20How%20to%20download%20free%20Splunk%20Enterprise%20.png" width="1000">
 
 ---
 
