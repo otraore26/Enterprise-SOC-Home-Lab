@@ -81,8 +81,8 @@ During this lab I performed:
 
 Visit the Splunk download page.
 
-<img src="images/1-1Inside Splunk Website.png" width="1000">
-
+<img src="images/Splunk Screenshoots/1-1Inside Splunk Website.png" width="1000">
+Splunk Screenshoots/1-1Inside Splunk Website.png
 ---
 
 Select **Splunk Enterprise**.
